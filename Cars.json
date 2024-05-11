@@ -1,0 +1,31 @@
+[
+    {
+    "_id": "609b9e5fc15ab92e52e7712d",
+    "manufacturer_id": "609b9e5fc15ab92e52e7712a",
+    "model": "Audi A4",
+    "year": 2020,
+    "color": "black"
+    },
+    {
+        "_id": "609b9e5fc15ab92e52e7712e",
+        "manufacturer_id": "609b9e5fc15ab92e52e7712b",
+        "model": "BMW I8",
+        "year": 2014,
+        "color": "silver"
+    },
+    {
+        "_id": "609b9e5fc15ab92e52e7712f",
+        "manufacturer_id": "609b9e5fc15ab92e52e7712c",
+        "model": "Lamborghini Huracan",
+        "year": 2014,
+        "color": "yellow"
+    },
+    {
+        "_id": "609b9e5fc15ab92e52e7712g",
+        "manufacturer_id": "609b9e5fc15ab92e52e7712c",
+        "model": "Lamborghini Urus",
+        "year": 2018,
+        "color": "black"
+    }
+
+]

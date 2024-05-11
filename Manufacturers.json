@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "609b9e5fc15ab92e52e7712a",
+        "name": "Audi",
+        "country": "Germany"
+    },
+    {
+        "_id": "609b9e5fc15ab92e52e7712b",
+        "name": "BMW",
+        "country": "Germany"
+    },
+    {
+        "_id": "609b9e5fc15ab92e52e7712c",
+        "name": "Lamborgini",
+        "country": "Italy"
+    }
+]
