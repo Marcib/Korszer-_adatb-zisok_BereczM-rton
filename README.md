@@ -1,0 +1,1 @@
+Az feladatmegoldáshoz MongoDB-t használtam. Először telepítettem a MongoDB-t majd készítettem egy Autok_Beadando adatbázist. Ebbe létrehoztam az Autok collection, hozzájuk Autok_beadando.json fájlt és importáltam a json fájlt.
