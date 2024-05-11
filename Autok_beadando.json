@@ -1,0 +1,117 @@
+[
+  { 
+    
+      
+        
+        "name": "Kiss Ádam",
+        "email": "kissadam@gmail.com",
+        "tel": "318(6524)448-48-84",
+        "age":28,
+        "cars":
+        [{ 
+                "model": "Audi A4",
+                "year": 2020,
+                "color": "black",
+                "miles":32000
+            },
+        
+            {
+                "model": "Lamborghini Urus",
+                "year": 2018,
+                "color": "black",
+                "miles":5420
+            }
+        ]
+
+    },
+
+    
+    
+    { 
+        "name": "Nagy Zsolt",
+        "email": "nagyzsolt@gmail.com",
+        "tel": "412(52)166-50-53",
+        "age":34,
+        "cars":[
+            {
+                
+                "model": "BMW I8",
+                "year": 2014,
+                "color": "silver",
+                "miles":44444
+
+               
+                
+            }
+          
+
+        ]
+    },
+    {
+     
+        "name": "Erős Botond",
+        "email": "erosbotond@gmail.com",
+        "tel": "61(37)710-29-40",
+        "age":38,
+        "cars":[
+            {
+               
+                "model": "Lamborghini Huracan",
+                "year": 2014,
+                "color": "yellow",
+                "miles":2000
+                
+                }
+            
+        ]
+    },
+    { 
+    
+      
+        
+        "name": "Farkas Éva",
+        "email": "farkaseva@gmail.com",
+        "tel": "5(4696)775-70-97",
+        "age":44,
+        "cars":
+        [{ 
+                "model": "Honda Civic",
+                "year": 2011,
+                "color": "green",
+                "miles":60000
+            }
+        
+      
+        ]
+
+    },
+    { 
+    
+      
+        
+        "name": "Tóth Alex",
+        "email": "tothalex@gmail.com",
+        "tel": "754(8651)528-36-46",
+        "age":24,
+        "cars":
+        [{ 
+                "model": "Toyota Camry",
+                "year": 2010,
+                "color": "red",
+                "miles":5000
+            },
+        
+            {
+                "model": "Mitsubishi Lancer",
+                "year": 2017,
+                "color": "silver",
+                "miles":15000
+            }
+        ]
+
+    }
+    
+  
+  
+  
+]
